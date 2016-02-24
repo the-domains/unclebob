@@ -1,0 +1,28 @@
+name: Unclebob
+favicon: null
+layout_spectrum: 0.242643425706774
+typography_spectrum: 0.7754842105787247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.45348620950244367
+  lightness: 0.5822997493669391
+  saturation: 0.32348249084316194
+  rhythmicContrast: 0.9492091140709817
+purpose: []
