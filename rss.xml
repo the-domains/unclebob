@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mobile Apps with Uncle Bob]]></title>
+        <description><![CDATA[Mobile Apps with Uncle Bob]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 07:06:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>With the growth of mobile usage around the world it's time for local businesses to get in the game. Your mobile website helps bring in new customers. Your mobile app will keep your best customers coming back.</p>]]></description>
+            <link>undefinedwith-the-growth-of-mobile-usage/index.html</link>
+            <guid isPermaLink="false">ce882459-bca2-4ae1-9019-d583f6a4f3c2</guid>
+            <pubDate>Fri, 11 Mar 2016 07:06:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
